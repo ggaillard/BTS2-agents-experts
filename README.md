@@ -29,7 +29,7 @@ Si vous n'atteignez pas le critère d'une étape, reprenez la vidéo ou le cours
 | Ressource | Où |
 |---|---|
 | Vidéos (3 parties) | Chaîne YouTube [@DevOpsIA](https://www.youtube.com/@DevOpsIA), playlist « Les agents experts » |
-| Cours écrit et diaporama | Liens envoyés par votre enseignant |
+| Cours écrit et diaporama | Dossier [cours](cours/) (PDF) |
 | Exercices et grilles | Dossier [exercices](exercices/) |
 | Corrigés | Dossier [corriges](corriges/) — à ouvrir **seulement après** avoir fait l'exercice |
 | Application BiblioTech | Dossier [projetLaravel](projetLaravel/) |
