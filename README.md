@@ -8,9 +8,10 @@ Ce dépôt est votre poste de travail pour un **parcours en autonomie** : vous a
 
 ## 🚀 Pour commencer
 
-1. Cliquez sur **Use this template → Create a new repository** pour créer **votre** dépôt.
-2. Dans votre dépôt : **Code → Codespaces → Create codespace on main**. L'installation de BiblioTech se fait toute seule (quelques minutes).
-3. Ouvrez **[PROGRESSION.md](PROGRESSION.md)** : tout le parcours y est, étape par étape. Cochez au fur et à mesure et faites un commit à chaque étape validée.
+1. Cliquez sur **Use this template → Create a new repository** pour créer **votre** dépôt. Choisissez **Public** (ou **Private**, puis ajoutez `ggaillard` dans **Settings → Collaborators** pour que votre enseignant puisse suivre votre progression).
+2. Signalez votre dépôt : publiez son lien dans l'onglet **[Discussions](https://github.com/ggaillard/BTS2-agents-experts/discussions)** du dépôt modèle, catégorie **Show and tell**.
+3. Dans votre dépôt : **Code → Codespaces → Create codespace on main**. L'installation de BiblioTech se fait toute seule (quelques minutes).
+4. Ouvrez **[PROGRESSION.md](PROGRESSION.md)** : tout le parcours y est, étape par étape. Cochez au fur et à mesure et faites un commit à chaque étape validée.
 
 ## 🗺️ Le parcours (environ 9 h)
 
@@ -37,7 +38,7 @@ Si vous n'atteignez pas le critère d'une étape, reprenez la vidéo ou le cours
 ## 🆘 Si vous bloquez
 
 1. **Je cherche seul** : je revois la vidéo, la diapositive (avec ses notes) et la partie du cours indiquées.
-2. **Je demande à un pair** : je pose ma question dans l'onglet **Discussions** du dépôt modèle.
+2. **Je demande à un pair** : je pose ma question dans l'onglet **[Discussions](https://github.com/ggaillard/BTS2-agents-experts/discussions)** du dépôt modèle, catégorie **Q&A**.
 3. **Je demande à l'enseignant** : j'ouvre une issue **« Demande de retour »** dans mon dépôt, en décrivant ce que j'ai déjà essayé.
 
 ## ⚖️ La règle d'or
