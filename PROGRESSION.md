@@ -12,7 +12,7 @@ Cochez chaque case (remplacez `[ ]` par `[x]`) et faites un commit à chaque ét
 - [ ] Regarder la vidéo « Partie 1 – Qu'est-ce qu'un agent IA ? » ([@DevOpsIA](https://www.youtube.com/@DevOpsIA))
 - [ ] Parcourir les diapositives 1 à 7 en lisant les notes de l'enseignant
 - [ ] Lire les parties 1 à 3 du cours écrit
-- [ ] Faire le quiz 1 : [lien du quiz 1]
+- [ ] Faire le quiz 1 (autant d'essais que nécessaire) : [exercices/quiz-1-paradigme.md](exercices/quiz-1-paradigme.md)
 - [ ] Classer les 24 cartes : [exercices/01-tri-cartes.md](exercices/01-tri-cartes.md), puis comparer au corrigé
 - [ ] Écrire dans le carnet (en bas de ce fichier) : 3 phrases à retenir et 1 question
 
@@ -24,7 +24,7 @@ Cochez chaque case (remplacez `[ ]` par `[x]`) et faites un commit à chaque ét
 - [ ] Parcourir les diapositives 8 à 18 (une maquette d'interface par étape)
 - [ ] Remplir 2 fiches [exercices/02-fiche-agent.md](exercices/02-fiche-agent.md), dont le relecteur sécurité
 - [ ] Comparer mes fiches au corrigé et corriger
-- [ ] Faire le quiz 2 : [lien du quiz 2]
+- [ ] Faire le quiz 2 : [exercices/quiz-2-agents-experts.md](exercices/quiz-2-agents-experts.md)
 
 **Je valide si** : quiz 2 ≥ 4/5 et fiches conformes au corrigé sur les outils et le modèle. Mon score : … /5
 
@@ -35,7 +35,7 @@ Cochez chaque case (remplacez `[ ]` par `[x]`) et faites un commit à chaque ét
 - [ ] Compléter [AGENTS.md](AGENTS.md) pour BiblioTech (pile, commandes, règles)
 - [ ] Écrire `.github/agents/relecteur-securite.agent.md` et `.github/agents/testeur.agent.md`
 - [ ] Vérifier mes fichiers avec [exercices/03-liste-bon-agent.md](exercices/03-liste-bon-agent.md), puis les comparer au corrigé
-- [ ] Faire le quiz 3 : [lien du quiz 3]
+- [ ] Faire le quiz 3 : [exercices/quiz-3-choisir-parametrer.md](exercices/quiz-3-choisir-parametrer.md)
 
 **Je valide si** : les 6 points de la liste « un bon agent » sont cochés et quiz 3 ≥ 4/5. Mon score : … /5
 
@@ -56,7 +56,7 @@ Cochez chaque case (remplacez `[ ]` par `[x]`) et faites un commit à chaque ét
 
 ## Étape 5 · Bilan (≈ 45 min)
 
-- [ ] Faire le quiz final : [lien du quiz final]
+- [ ] Faire le quiz final : [exercices/quiz-final.md](exercices/quiz-final.md)
 - [ ] Expliquer 10 lignes tirées au hasard dans le code fusionné : [exercices/08-explication.md](exercices/08-explication.md)
 - [ ] Remplir la grille [exercices/07-grille-auto-evaluation.md](exercices/07-grille-auto-evaluation.md) avec une preuve par ligne
 - [ ] Écrire dans le carnet ce que je changerai dans ma façon de coder
